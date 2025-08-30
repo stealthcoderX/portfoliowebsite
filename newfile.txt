@@ -1,1 +1,2 @@
 2nd git conflict assignment line-1
+added this line from feature branch line-2
