@@ -1,1 +1,2 @@
 2nd git conflict assignment line-1
+this is from master branch line 2
